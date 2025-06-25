@@ -65,5 +65,9 @@
       "Firefox ESR",
       "not ie < 11"
     ]
-  }
+  },
+  "engines": {
+   "node": "20.x",
+   "npm": ">=6"
+ }
 }
